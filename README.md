@@ -1,6 +1,6 @@
 <div align='center'>
   
-  [<img src='https://github.com/user-attachments/assets/30639cc1-df5d-4e06-962b-611400852b9c' alt='Evochase' height='150' style='margin: 20px'>](https://thomaspsl.itch.io/celeste)
+  [<img src='https://github.com/user-attachments/assets/30639cc1-df5d-4e06-962b-611400852b9c' alt='Celeste' height='150' style='margin: 20px'>](https://thomaspsl.itch.io/celeste)
 
   # Celeste Project
 
